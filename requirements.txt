@@ -1,0 +1,4 @@
+flask
+requests
+beautifulsoup4
+python-telegram-bot==21.6
